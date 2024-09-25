@@ -9,7 +9,10 @@ const Page = () => {
                     Welcome to the About page. This is where you can learn more about our application and its features.
                 </p>
             </div>
+
         </div>
+
+
     );
 };
 
